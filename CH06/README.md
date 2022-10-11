@@ -1,1 +1,1 @@
-# Chapter 7: Creating and Manipulating Warped Objects 
+# Chapter 6: Physical Motion with Inverse Kinematics
