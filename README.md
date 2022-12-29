@@ -1,4 +1,4 @@
-# Adobe Animate 2023 for Creative Professionals
+# Mastering Adobe Animate 2023
 
 <a href="https://www.packtpub.com/product/adobe-animate-2023-for-creative-professionals-third-edition/9781837636266"><img src="https://static.packt-cdn.com/products/9781837636266/cover/smaller" alt="Adobe Animate 2023 for Creative Professionals" height="256px" align="right"></a>
 
