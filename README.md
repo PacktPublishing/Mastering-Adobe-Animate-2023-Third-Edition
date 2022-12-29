@@ -1,8 +1,8 @@
 # Mastering Adobe Animate 2023
 
-<a href="https://www.packtpub.com/product/adobe-animate-2023-for-creative-professionals-third-edition/9781837636266"><img src="https://static.packt-cdn.com/products/9781837636266/cover/smaller" alt="Adobe Animate 2023 for Creative Professionals" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/adobe-animate-2023-for-creative-professionals-third-edition/9781837636266"><img src="https://static.packt-cdn.com/products/9781837636266/cover/smaller" alt="Mastering Adobe Animate 2023" height="256px" align="right"></a>
 
-This is the code repository for [Adobe Animate 2023 for Creative Professionals](https://www.packtpub.com/product/adobe-animate-2023-for-creative-professionals-third-edition/9781837636266), published by Packt.
+This is the code repository for [Mastering Adobe Animate 2023](https://www.packtpub.com/product/adobe-animate-2023-for-creative-professionals-third-edition/9781837636266), published by Packt.
 
 **A comprehensive guide to designing modern, animated, and interactive content with Animate**
 
