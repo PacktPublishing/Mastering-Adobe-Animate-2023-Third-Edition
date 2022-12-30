@@ -26,6 +26,13 @@ alt="https://www.packtpub.com/" border="5" /></a>
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
+The code will look like the following:
+```
+private function photoSelected(e:Event):void {
+    var selectedPhoto:File = photos[e.target.selectedIndex];
+    PhotoViewer.source = selectedPhoto.url;
+}
+```
 **Following is what you need for this book:**
 This book is for web, graphic, and motion design professionals with basic experience in animation who want to take their existing skills to the next level. A clear understanding of fundamental animation concepts will help you to get the most out of this book and produce impressive results
 
