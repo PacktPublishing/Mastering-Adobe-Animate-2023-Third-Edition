@@ -68,3 +68,8 @@ is a creative developer, designer, and educator with nearly two decades of exper
 * [Mastering Adobe Animate 2021](https://www.packtpub.com/product/mastering-adobe-animate-2021/9781801074162)
 
 
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781837636266">https://packt.link/free-ebook/9781837636266 </a> </p>
